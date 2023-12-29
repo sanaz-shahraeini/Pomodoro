@@ -1,1 +1,4 @@
-Pomodoro Technique for time management in Python - - GUI app with Tkinter and functional structure
+# Pomodoro Technique in Python 
+# for time management
+# GUI app with Tkinter and functional structure
+
